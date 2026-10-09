@@ -1,0 +1,11 @@
+# NEVER commit these to GitHub
+.streamlit/secrets.toml
+.env
+*.db
+*.sqlite
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.log
